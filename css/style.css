@@ -1,0 +1,28 @@
+body {
+   font: 18px/1.5 sans-serif;
+
+   color: #333;
+}
+
+table {
+   border-collapse: collapse;
+}
+
+table, td {
+   border: 1px solid #000;
+   
+}
+
+td, th{
+   padding: 10px;
+   text-align: center;
+}
+
+th {
+   background: #e4d9d9;
+}
+
+.tar  {
+   text-align: right;
+   font-weight: bold;
+}
